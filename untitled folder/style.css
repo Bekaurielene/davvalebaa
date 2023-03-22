@@ -1,0 +1,49 @@
+.card {
+    background-color: #FAFAFA;
+    width: 562px;
+    height: 818px;
+    border: 1px; 
+    border-radius: 20px;
+    margin: 150px auto;
+}
+.poto{
+     
+       width: 237.95px;
+        height: 184.57px;
+        margin-left: 156px;
+        padding-top: 76px;
+    }
+    .satauri{
+        margin-left: 56px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+
+    }
+    .xazi{
+        
+            margin-top: 21px;
+            width: 443px;
+            height: 0px;
+            color: #DCDCDC;
+        
+    }
+    
+    
+       .teqsti{
+        
+        margin-left: 56px;
+         font-weight: 400;
+        font-size: 19px;
+        line-height: 23px;
+         margin-top: 24px;
+       
+      
+       }
+    .text{
+        margin-left: 440px;
+        font-weight: 500;
+         font-size: 20px;
+        line-height: 24px;
+        color:#5076FF;
+    }
